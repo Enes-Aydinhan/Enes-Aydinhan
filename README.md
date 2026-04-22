@@ -109,5 +109,3 @@ Outside of code, I've been fascinated by space since I was a kid — contributin
 - **GitHub:** [github.com/Enes-Aydinhan](https://github.com/Enes-Aydinhan)
 
 ---
-
-*Portfolio website built with React 19 · TypeScript · Vite · Tailwind · Framer Motion*
