@@ -1,5 +1,5 @@
 # Hi there, I'm Enes Aydınhan 👨‍🚀
-🌐 http://enesaydinhan.gamigion.com/
+🌐 https://enesaydinhan.dev/
 > Builder of end-to-end products: Full-stack web & mobile apps, embedded systems, intelligent automation, and data pipelines.
 
 I'm a full-stack software developer who enjoys turning ideas into reliable products. I build across React frontends, PHP/Python APIs, and embedded firmware on bare-metal hardware. I focus on building dependable products that are practical, scalable, and genuinely useful to people.
