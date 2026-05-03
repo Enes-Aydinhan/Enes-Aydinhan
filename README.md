@@ -76,7 +76,7 @@ Graduation thesis project — a fully functional 1U CubeSat platform designed an
 - 10+ sensors: DHT11, BMP180, SGP40, S12SD UV, GY-89 IMU (9-axis), NEO-7M GPS
 - NRF24L01 2.4 GHz TX/RX wireless telemetry downlink
 - Custom PCB: schematic capture → layout → BOM in Altium Designer
-- 3D-printed 1U CubeSat structural frame (PrinterSat standard)
+- 3D-printed 1U CubeSat structural frame
 
 `STM32L432KC` `C` `PlatformIO` `I2C / SPI / UART` `NRF24L01` `NEO-7M` `GY-89 IMU` `Altium`
 
