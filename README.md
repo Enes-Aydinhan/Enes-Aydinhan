@@ -88,7 +88,7 @@ Graduation thesis project — a fully functional 1U CubeSat platform designed an
 A dual-market trading intelligence system combining autonomous crypto execution with BIST-aware stock automation. Focused on disciplined orchestration: signal quality, strict guardrails, and transparent event logs.
 
 - **Crypto module:** Real-time Binance screener · RSI + MA signal validation · OCO bracket exits (5% TP / 2% SL)
-- **Equity module:** BIST session-aware polling (KAP announcements) · LLM-powered fundamental analysis (Claude)
+- **Equity module:** BIST session-aware polling (KAP announcements) · LLM-powered fundamental analysis
 - **Risk core:** Global kill switch · Max daily loss guard · Cooldown enforcement · Unified SQLite trade journal
 - Multi-protocol logging: stdout + file + real-time telemetry dashboard
 
